@@ -1,2 +1,2 @@
 # VortexFlowMeter
-Vortex Flowmeter Project with HART
+Vortex Flowmeter Project
